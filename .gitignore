@@ -85,6 +85,7 @@ local.properties
 #.project
 
 build
+.gradle
 .idea
 
 application-oauth.yml
