@@ -42,7 +42,7 @@ dependencies {
 
     testCompileOnly('org.springframework.security:spring-security-test')
 
-    compileOnly('org.mariadb.jdbc:mariadb-java-client')
+    implementation('org.mariadb.jdbc:mariadb-java-client')
 
 }
 
